@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap");
+.about-me {
+  font-family: 'Comfortaa';
+}
+
+.footer {
+  background: #93939335;
+  padding: 10px;
+  position: absolute;
+  bottom: 0;
+  width: 100vw;
+}
+/*# sourceMappingURL=Footer.css.map */
