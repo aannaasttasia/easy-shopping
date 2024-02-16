@@ -1,13 +1,11 @@
-import Footer from "./components/Footer/Footer";
-import Header from "./components/Header/Header";
-import { Links } from "./components/links";
+import { getData } from "./api/getProducts";
+import { ProductsList } from "./components/ProductsList/ProductsList";
 
 export default async function Home() {
+  const products = await getData()
   return (
     <main>
-      <Header/>
-      <Links />
-      <Footer/>
+      <ProductsList products={products} />
     </main>
   );
 }

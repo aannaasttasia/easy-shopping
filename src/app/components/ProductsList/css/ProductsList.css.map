@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,QAAQ,CAAC;EACP,OAAO,EAAE,CAAC;EACV,OAAO,EAAE,IAAI;EACb,qBAAqB,EAAE,oCAGtB;EACD,QAAQ,EAAE,IAAI;CACf;;AAED,AAAA,KAAK,CAAC;EACJ,MAAM,EAAE,IAAI;CACb;;AAED,AAAA,EAAE,CAAC;EACD,eAAe,EAAE,IAAI;CACtB;;AAED,MAAM,CAAC,MAAM,MAAM,SAAS,EAAE,KAAK;EACjC,AAAA,QAAQ,CAAC;IACP,qBAAqB,EAAE,oCAGtB;GACF",
+    "sources": [
+        "ProductsList.scss"
+    ],
+    "names": [],
+    "file": "ProductsList.css"
+}
